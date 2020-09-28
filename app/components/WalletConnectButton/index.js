@@ -6,7 +6,7 @@ import MetaMask from './icn-metamask.svg';
 import TrustWallet from './trustWallet.png';
 import Trezor from './trezor.png';
 import Torus from './torus.jpg';
-import EthAddress from './ETH.jpg';
+import EthAddress from './ETH.png';
 
 const Wrapper = styled.button`
   width: 250px;
